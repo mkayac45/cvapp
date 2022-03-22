@@ -99,10 +99,6 @@ const  CvComponent=() => {
                             </div>
                             </div>
                            
-
-                        
-                          
-                            
                             
                         </div>
                         <div>
