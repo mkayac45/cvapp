@@ -49,17 +49,17 @@ const  CvComponent=() => {
                                 </li>
 
                                 <li class= "list-item">
-                                    <i class="fas  fa-calendar"></i>
+                                    <i class="fas  fa-calendar mx-4"></i>
                                     16/12/1999
                                 </li>
 
                                 <li class= "list-item">
-                                    <i class="fas  fa-location-pin"></i>
+                                    <i class="fas  fa-location-pin mx-4"></i>
                                     Uşak
                                 </li>
 
                                 <li class= "list-item">
-                                    <i class="fas fa-mars-and-venus"></i>
+                                    <i class="fas fa-mars-and-venus mx-4"></i>
                                     Erkek
                                 </li>
 
@@ -126,6 +126,8 @@ const  CvComponent=() => {
                         
                     </div>
 
+                    <hr></hr>
+
 
                     <div>
                     <h4 class="text-uppercase">İş Alanım</h4>
@@ -135,6 +137,53 @@ const  CvComponent=() => {
         siber güvenliğe yöneldim hem donanım olarak hem de yazılımsal olarak uğraşabileceğim alanlardan bir tanesiydi ve ilgimi çekiyordu.Şuanda da bu alanda devam ediyorum. 
                         </p>
                         
+
+                    </div>
+
+                    <hr></hr>
+
+                    <div>
+                    <h4 class="text-uppercase">Eğitim Geçmişi</h4>
+                    <u1 class="list">
+                                <li class= "list-item">
+                                    <h5 class= " display-6 text-uppercase">İlk Okul</h5>
+                                    <h6 class= " text-uppercase text-black-50">Çanakkale/Çan</h6>
+                                    <p>Atatürk İlkOkulu</p>
+                                </li>
+
+                                <li class= "list-item">
+                                    <h5 class= " display-6 text-uppercase">OrtaOkul</h5>
+                                    <h6 class= " text-uppercase text-black-50">Sivas/Altınyayla</h6>
+                                    <p>Atatürk İlkOkulu</p>
+                                </li>
+
+                                <li class= "list-item">
+                                    <h5 class= " display-6 text-uppercase">OrtaOkul</h5>
+                                    <h6 class= " text-uppercase text-black-50">Çanakkale</h6>
+                                    <p>18 Mart İlkOkulu</p>
+                                </li>
+
+                                <li class= "list-item">
+                                    <h5 class= " display-6 text-uppercase">Lise</h5>
+                                    <h6 class= " text-uppercase text-black-50">Çanakkale</h6>
+                                    <p>İbrahim Bodur Anadolu Lisesi</p>
+                                </li>
+
+                                <li class= "list-item">
+                                    <h5 class= " display-6 text-uppercase">Üniversite</h5>
+                                    <h6 class= " text-uppercase text-black-50">Edirne</h6>
+                                    <p>Trakya Üniversitesi</p>
+                                </li>
+
+
+
+
+
+                                
+
+                               
+                            </u1>
+                            
 
                     </div>
 
